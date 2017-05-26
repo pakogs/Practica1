@@ -2,6 +2,7 @@
 {
   font-size: 32px;
 }
+
 .footer{ padding: 20px 0;}
 html{ position: relative; min-height: 100%;}
 body {margin-bottom: 200px;}
@@ -9,5 +10,5 @@ body {margin-bottom: 200px;}
 .footer{color: #efefef; background-color: #333;}
 .footer a{ color: #9af7fe;}
 @media only screen and (max-width:768px) {
-  body {margin-bottom: 600px;}
-  .footer{ height: 600px;}}
+  body {margin-bottom: 300px;}
+  .footer{ height: 400px; font-size: 0.8em;}}
